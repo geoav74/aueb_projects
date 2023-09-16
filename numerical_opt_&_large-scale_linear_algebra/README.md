@@ -1,7 +1,7 @@
 ### This is a repository containing my projects during the `Numerical Optimization & Large Scale Linear Algebra` class.
 
 # **Contents**
-* [Progect_1](): PageRank with Power Method
+* [Progect_1](https://github.com/geoav74/aueb_projects/tree/main/numerical_opt_%26_large-scale_linear_algebra/page-rank_power-method): PageRank with Power Method
 
 * [Project_2](): Classification of Hand-written Digits
 
