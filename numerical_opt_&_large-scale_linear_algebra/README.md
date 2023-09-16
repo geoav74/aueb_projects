@@ -13,5 +13,5 @@
 
 <br><br>
 # **References**
-* [Deeper Inside PageRank]()
+* [Deeper Inside PageRank](https://github.com/geoav74/aueb_projects/blob/main/numerical_opt_%26_large-scale_linear_algebra/page-rank_power-method/pagerank.pdf)
 * [Introduction to Applied Linear Algebra]()
